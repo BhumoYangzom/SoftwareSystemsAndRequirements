@@ -25,4 +25,13 @@ Minimum viable product: Enough features to satisfy early customers and provide f
 - Large teams need heavier methodology.
 - Greater ceremony is appropriate for more critical/risk projects.
 
+## Change management tools and skills
+- Baseline
+- Establish sigle channel to control change.
+- Use Change control system.
+- Manage change hierarchically. (Traceability)
+- Audit changes.
+
+---
+
        
