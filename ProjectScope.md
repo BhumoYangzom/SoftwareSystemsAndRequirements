@@ -59,7 +59,7 @@ Non-Functional Requirements: used to judge the operations of a system rather tha
         - Malicious attacks
         - Hardware availability
         - Reliability and recoverability
+        
+## Midterm Discussion: 
 
-
-
-       
+10 storyboards for an app. Which app? Not clear.
