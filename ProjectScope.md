@@ -34,4 +34,17 @@ Minimum viable product: Enough features to satisfy early customers and provide f
 
 ---
 
+10/17/19
+
+Non-Functional Requirements: used to judge the operations of a system rather than specific requirements. 
+
+## Mastering non-functional requirements.
+- The constraints and requirements for the IT system.
+- Input for estimation of cost and system sizing.
+- Input for the architecture and design of the model. 
+- Infput for the design phase: performance, scalabiliyt, availability.
+- There are many, many types of NFRs. 
+
+
+
        
