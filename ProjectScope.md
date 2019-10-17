@@ -45,6 +45,13 @@ Non-Functional Requirements: used to judge the operations of a system rather tha
 - Infput for the design phase: performance, scalabiliyt, availability.
 - There are many, many types of NFRs. 
 
+### Scalability
+- Ability to adapt to change in a number of users, process, transactions.
+- Extend without changing the original system. 
+- We talk about scaling horizontally and vertically, or scaling out and scaling up. 
+- Through output, storage, growth rate. 
+
+
 
 
        
