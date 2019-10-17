@@ -51,6 +51,14 @@ Non-Functional Requirements: used to judge the operations of a system rather tha
 - We talk about scaling horizontally and vertically, or scaling out and scaling up. 
 - Through output, storage, growth rate. 
 
+### Availability
+- Time period during which the system functions normally with no failures. 
+- Percentage of total application downtime over a set period. 
+    - Influenced by: 
+        - Infrastructure
+        - Malicious attacks
+        - Hardware availability
+        - Reliability and recoverability
 
 
 
